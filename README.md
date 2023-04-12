@@ -1,4 +1,4 @@
-### Hi! My name is Mary. I am Python Backend Developer<img src="https://www.picgifs.com/divider/lines/animals/lines-animals-466597.gif" </h1>
+### Hi! My name is Mary. I am Python Backend Developer<img src="https://www.picgifs.com/divider/lines/animals/lines-animals-466597.gif"height="32" width="62"/></h1>
 
 ### Yandex.Practicum graduate
 
