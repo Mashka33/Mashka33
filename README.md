@@ -1,4 +1,7 @@
-### Hi! My name is Mary. I am Python Backend Developer   <img src="https://www.picgifs.com/divider/lines/animals/lines-animals-466597.gif" height="35" width="300"/></h1>
+### Hi! <img src="https://gas-kvas.com/uploads/posts/2023-01/1673293995_gas-kvas-com-p-morda-kota-risunki-anime-8.png" height="32" width="32"
+             My name is Mary. I am Python Backend Developer   <img src="https://www.picgifs.com/divider/lines/animals/lines-animals-466597.gif" height="35" width="300"/></h1>
+
+https://gas-kvas.com/uploads/posts/2023-01/1673293995_gas-kvas-com-p-morda-kota-risunki-anime-8.png
 
 ### Yandex.Practicum graduate
 
