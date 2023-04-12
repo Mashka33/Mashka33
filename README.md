@@ -1,5 +1,4 @@
-### Hi! My name is Mary. I am Python Backend Developer
-<img src="https://thumbs.gfycat.com/WellwornUnconsciousIndianpalmsquirrel-max-1mb.gif" height="32" width="32"/></h1>
+### Hi! My name is Mary. I am Python Backend Developer<img src="https://thumbs.gfycat.com/WellwornUnconsciousIndianpalmsquirrel-max-1mb.gif" height="52" width="52"/></h1>
 
 ### Yandex.Practicum graduate
 
